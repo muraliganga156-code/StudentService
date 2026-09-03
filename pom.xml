@@ -98,7 +98,9 @@
 					</execution>
 				</executions>
 			</plugin>
-		</plugins>
+			</plugins>
+			<finalName>${artifactId}</finalName>
 	</build>
+
 
 </project>
